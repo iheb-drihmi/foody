@@ -1,20 +1,20 @@
-foody
+# foody
 
 The Food Ordering System is an application that allows customers to browse and order food items from various restaurants. It should provide a seamless and efficient experience for both customers and restaurant owners
-Objective: The objective of this project is to create a robust and user-centric Food Delivery App that enhances the overall shopping experience for our customers by offering reliable and convenient delivery services.
+##Objective: The objective of this project is to create a robust and user-centric Food Delivery App that enhances the overall shopping experience for our customers by offering reliable and convenient delivery services.
 Team Members:
 Khalifa Besbes - front-end side
 Iheb Drihmi - back-end side
-Week 1: Planning and Design
-Week 2: Development
-Week 3: Testing and Deployment
+## Week 1: Planning and Design
+## Week 2: Development
+## Week 3: Testing and Deployment
 it's for Portfolio Project
 One day, my friend Khalifa and I were hanging out in the neighborhoods of the city, and we were hungry, so we went and visited many restaurants, searching for what we wanted, but we did not like the food there. We missed an idea to create a website to buy food.
 
 The user opens the Foody website in their browser. The browser sends an HTTP request to the Foody API, requesting a specific resource or data. The Foody API processes the request by querying the MongoDB database. The MongoDB database retrieves the requested data and sends it back to the Foody API. The Foody API receives the data from the MongoDB database, processes it if necessary, and sends an HTTP response back to the browser. The browser receives the HTTP response from the Foody API, and if it's a request for a web page, the browser renders the HTML, CSS, and JavaScript code received in the response. This process allows the Foody website to display dynamic data to its users. The data can be stored in a structured manner using MongoDB, and the Foody API can use Python, Flask, and the 3rd party API (Stripe) to manipulate the data before sending it back to the browser. By using this architecture, Foody can maintain a separation of concerns between the presentation layer (client-side HTML, CSS, and JavaScript) and the logic layer (server-side API). This separation makes the application more modular, easier to maintain, and scalable.
 
 
-Features:
+## Features:
 User Registration and Login: Allow users to create accounts and log in securely.
 Browse Products: Enable customers to browse and shop for products from our e-commerce platform within the app.
 Cart Management: Allow users to add and remove items from their shopping carts.
