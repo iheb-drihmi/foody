@@ -18,15 +18,63 @@ One day, my friend Khalifa and I were hanging out in the neighborhoods of the ci
 
 ## Features:
 User Registration and Login: Allow users to create accounts and log in securely.
+
+
 Browse Products: Enable customers to browse and shop for products from our e-commerce platform within the app.
+
+
+
+
 Cart Management: Allow users to add and remove items from their shopping carts.
+
+
+
+
+
+
+
 Order Placement: Facilitate the seamless placement of orders, including specifying delivery details and preferred delivery times.
+
+
+
 Payment Integration: Integrate multiple payment methods for secure and convenient transactions.
+
+
+
+
+
 Registration and Verification: Enable delivery personnel to register and verify their identity.
+
+
+
 Accept/Decline Orders: Provide delivery personnel with the ability to accept or decline incoming delivery requests.
+
+
+
 Route Optimization: Offer optimal delivery routes and navigation assistance.
+
+
+
+
 Delivery Confirmation: Allow delivery personnel to confirm successful deliveries and capture recipient signatures if needed.
+
+
+
+
+
+
+
+
 Dashboard: Provide admins with a comprehensive dashboard to manage orders, users, and delivery personnel.
+
+
+
+
+
+
+
+
+
 Order Management: Allow admins to view and manage orders, track deliveries, and resolve issues.
 
 ## Planning and Requirements Gathering:
