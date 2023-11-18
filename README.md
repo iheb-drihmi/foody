@@ -1,7 +1,7 @@
 # foody
 
 The Food Ordering System is an application that allows customers to browse and order food items from various restaurants. It should provide a seamless and efficient experience for both customers and restaurant owners
-##Objective: The objective of this project is to create a robust and user-centric Food Delivery App that enhances the overall shopping experience for our customers by offering reliable and convenient delivery services.
+## Objective: The objective of this project is to create a robust and user-centric Food Delivery App that enhances the overall shopping experience for our customers by offering reliable and convenient delivery services.
 Team Members:
 Khalifa Besbes - front-end side
 Iheb Drihmi - back-end side
@@ -58,3 +58,6 @@ Order Management: Allow admins to view and manage orders, track deliveries, and 
 **8. Admin Panel**
 
 8.1. An admin panel should be available to manage products, orders, and resolve disputes.
+## Team Members:
+Khalifa Besbes - front-end side
+Iheb Drihmi - back-end side
