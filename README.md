@@ -8,9 +8,9 @@ The Food Ordering System is an application that allows customers to browse and o
 ## Objective: 
 The objective of this project is to create a robust and user-centric Food Delivery App that enhances the overall shopping experience for our customers by offering reliable and convenient delivery services.
 
-## Week 1: Planning and Design
-## Week 2: Development
-## Week 3: Testing and Deployment
+#### Week 1: Planning and Design
+#### Week 2: Development
+#### Week 3: Testing and Deployment
 it's for Portfolio Project
 ## The story :
 One day, my friend Khalifa and I were hanging out in the neighborhoods of the city, and we were hungry, so we went and visited many restaurants, searching for what we wanted, but we did not like the food there. We missed an idea to create a website to buy food.
