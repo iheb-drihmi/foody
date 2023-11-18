@@ -10,7 +10,7 @@ from api.cart.routes import cart
 from api.order.routes import order
 from api.checkout.routes import checkout
 
-# LHMD cbon 5an habto taw andek f github
+
 
 app = Flask(__name__)
 
